@@ -1,6 +1,6 @@
 # ⏱️ Timer
 
-# Sobre o projeto
+# 📌 Sobre o projeto
 Este projeto foi desenvolvido durante as aulas do professor Luiz Otávio, no curso de desenvolvimento full-stack. O timer utiliza as funções Date() e setInterval() para controlar a contagem do tempo. 
 
 # 🛠️ Funcionalidades:
