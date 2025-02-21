@@ -16,4 +16,4 @@ Este projeto foi desenvolvido durante as aulas do professor Luiz Otávio, no cur
 <li>Backend: Java Script</li>
 </ul>
 
-# 🔗 Acesse o projeto : <a href="">Timer</a>
+# 🔗 Acesse o projeto : <a href="https://geovannacassia.github.io/Timer/">Timer</a>
